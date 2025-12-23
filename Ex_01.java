@@ -2,6 +2,6 @@ public class Ex_01{
     public static void main(String [] args){
         System.out.println("Hello");
 
-        System.out.println("This is the second commit purely in feature");
+        System.out.println("Change via Pull Request workflow");
     }
 }
