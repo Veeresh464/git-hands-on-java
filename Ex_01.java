@@ -7,6 +7,7 @@ public class Ex_01{
 
         System.out.println("error1");
 
+        System.out.println("error 3");
         
     }
 }
