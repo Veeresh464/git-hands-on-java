@@ -3,15 +3,6 @@ public class Ex_01{
         System.out.println("Hello");
 
         System.out.println("This is the second commit");
-
-
-        System.out.println("error1");
-
-        System.out.println("error 3");
-
-
-        System.out.println("Hello from MAIN branch");
-
-        
+        System.out.println("Hello from MAIN + FEATURE branch");
     }
 }
